@@ -15,7 +15,7 @@ Calculate lengths to coordinates and write data in file
 Use the saved data from file to visualize 2D shapes in GNU plot
 
 Hierarchy of classes: 
-Shape -> Line
-Shape -> Triangle
-Shape -> Rectangle -> Square
-Shape -> Ellipse -> Circle
+a. Shape -> Line
+b. Shape -> Triangle
+c. Shape -> Rectangle -> Square
+d. Shape -> Ellipse -> Circle
